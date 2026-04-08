@@ -1,6 +1,6 @@
 ---
 title: "Stop wrapping REST APIs and calling it an MCP server. Do this instead."
-date: 2026-04-06T00:00:00Z
+date: 2026-04-07T00:00:00Z
 ---
 
 Most MCP servers are slapped together REST API wrappers with a new coat of paint. They technically work. They also confuse agents, bloat context, and quietly underperform until you give up and blame the model.

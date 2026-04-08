@@ -73,7 +73,7 @@ params:
   homeInfoParams:
     Title: "Hi there, I'm Jon! 👋"
     Content: >
-     - I'm a senior software engineer based in Quebec. I'm passionate about .NET, software architecture, DDD, and testing.
+     - I'm a senior software engineer based in Quebec. I'm passionate about .NET, software architecture, DDD, designing MCP servers and testing.
       This is where I write about things I'm learning, building, and thinking about.
 
   socialIcons:

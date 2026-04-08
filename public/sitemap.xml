@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://examplesite.com/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/posts/mcp-cool-features/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://examplesite.com/posts/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://examplesite.com/posts/mcp-server-design-tips/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/mcp-cool-features/</loc>
     <lastmod>2026-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://examplesite.com/categories/</loc>

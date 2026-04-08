@@ -11,8 +11,19 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stop wrapping REST APIs and calling it an MCP server. Do this instead.</title>
+      <link>https://examplesite.com/posts/mcp-server-design-tips/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/posts/mcp-server-design-tips/</guid>
+      <description>&lt;p&gt;Most MCP servers are slapped together REST API wrappers with a new coat of paint. They technically work. They also confuse agents, bloat context, and quietly underperform until you give up and blame the model.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s what I&amp;rsquo;ve learned building servers that don&amp;rsquo;t do that.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;give-your-server-a-brain-with-instructions&#34;&gt;Give your server a brain with Instructions&lt;/h3&gt;
+&lt;p&gt;The MCP spec lets you set an &lt;code&gt;instructions&lt;/code&gt; property on your server. Use it. This is where you tell the agent &lt;em&gt;how to use your server&lt;/em&gt; — which resource to load first, what the expected workflow is, what not to do.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>MCP Has More Than Tools. Nobody&#39;s Using It.</title>
       <link>https://examplesite.com/posts/mcp-cool-features/</link>
@@ -25,17 +36,6 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;elicitation-ask-the-user-mid-tool&#34;&gt;Elicitation: ask the user mid-tool&lt;/h2&gt;
 &lt;p&gt;Most tools either work or error. They can&amp;rsquo;t ask for clarification.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stop wrapping REST APIs and calling it an MCP server. Do this instead.</title>
-      <link>https://examplesite.com/posts/mcp-server-design-tips/</link>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/mcp-server-design-tips/</guid>
-      <description>&lt;p&gt;Most MCP servers are slapped together REST API wrappers with a new coat of paint. They technically work. They also confuse agents, bloat context, and quietly underperform until you give up and blame the model.&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s what I&amp;rsquo;ve learned building servers that don&amp;rsquo;t do that.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;give-your-server-a-brain-with-instructions&#34;&gt;Give your server a brain with Instructions&lt;/h3&gt;
-&lt;p&gt;The MCP spec lets you set an &lt;code&gt;instructions&lt;/code&gt; property on your server. Use it. This is where you tell the agent &lt;em&gt;how to use your server&lt;/em&gt; — which resource to load first, what the expected workflow is, what not to do.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
