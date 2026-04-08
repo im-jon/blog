@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jon&#39;s Blog</title>
-    <link>https://examplesite.com/</link>
+    <link>https://im-jon.github.io/blog/</link>
     <description>Recent content on Jon&#39;s Blog</description>
     <image>
       <title>Jon&#39;s Blog</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://im-jon.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://im-jon.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://im-jon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stop wrapping REST APIs and calling it an MCP server. Do this instead.</title>
-      <link>https://examplesite.com/posts/mcp-server-design-tips/</link>
+      <link>https://im-jon.github.io/blog/posts/mcp-server-design-tips/</link>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/mcp-server-design-tips/</guid>
+      <guid>https://im-jon.github.io/blog/posts/mcp-server-design-tips/</guid>
       <description>&lt;p&gt;Most MCP servers are slapped together REST API wrappers with a new coat of paint. They technically work. They also confuse agents, bloat context, and quietly underperform until you give up and blame the model.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s what I&amp;rsquo;ve learned building servers that don&amp;rsquo;t do that.&lt;/p&gt;
 &lt;hr&gt;
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>MCP Has More Than Tools. Nobody&#39;s Using It.</title>
-      <link>https://examplesite.com/posts/mcp-cool-features/</link>
+      <link>https://im-jon.github.io/blog/posts/mcp-cool-features/</link>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/mcp-cool-features/</guid>
+      <guid>https://im-jon.github.io/blog/posts/mcp-cool-features/</guid>
       <description>&lt;p&gt;Everyone talks about MCP tools. The spec has features almost nobody uses, and a few of them are genuinely good.&lt;/p&gt;
 &lt;p&gt;MCP launched in late 2024. In AI terms, that&amp;rsquo;s ancient history. Agents were barely a concept. We were still figuring out single-turn task completion.&lt;/p&gt;
 &lt;p&gt;The underused features from that era are arguably &lt;em&gt;more&lt;/em&gt; useful now that agents are doing real work.&lt;/p&gt;
