@@ -11,16 +11,20 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://examplesite.com/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website! !&lt;/p&gt;</description>
+      <title>MCP Has More Than Tools. Nobody&#39;s Using It.</title>
+      <link>https://examplesite.com/posts/mcp-cool-features/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/posts/mcp-cool-features/</guid>
+      <description>&lt;p&gt;Everyone talks about MCP tools. The spec has features almost nobody uses, and a few of them are genuinely good.&lt;/p&gt;
+&lt;p&gt;MCP launched in late 2024. In AI terms, that&amp;rsquo;s ancient history. Agents were barely a concept. We were still figuring out single-turn task completion.&lt;/p&gt;
+&lt;p&gt;The underused features from that era are arguably &lt;em&gt;more&lt;/em&gt; useful now that agents are doing real work.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s what you&amp;rsquo;re probably skipping.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;elicitation-ask-the-user-mid-tool&#34;&gt;Elicitation: ask the user mid-tool&lt;/h2&gt;
+&lt;p&gt;Most tools either work or error. They can&amp;rsquo;t ask for clarification.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
